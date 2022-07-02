@@ -64,13 +64,13 @@
     "dppsSwitcher": true,
     "spellingSwitch": true,
     "site_lang": "en",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Kruszywa Rzeszów Kruszywa Ozdobne, Budowlane i Drogowe. Luzem i Pakowane. Dla Firm i Osób Prywatnych",
+        "title": "Kruszywa Głogów Małopolski, Rzeszów, Kruszywa Ozdobne, Budowlane i Drogowe. Luzem i Pakowane. Dla Firm i Osób Prywatnych",
         "meta_descr": "Kruszywa Jakub Zając\nSpecjalizują się sprzedażą i dostawą kruszyw  wszelkiego rodzaju i wszelkiej frakcji.",
         "header_custom": "",
         "footer_custom": "",
